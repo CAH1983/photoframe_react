@@ -2,12 +2,13 @@ import React from "react";
 import ReactDOM from "react-dom";
 
 import "./styles.css";
+import "./Components/Slideshow.css";
 import { Slideshow } from "./Components/Slideshow";
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello caroline</h1>
+      <h1>Portraits</h1>
       <Slideshow />
     </div>
   );

@@ -5,7 +5,7 @@ export class Slideshow extends React.Component {
     return (
       <div>
         <h1> slideshow component </h1>
-        <img src="/caro1.JPG" />
+        <img src="/caro1.jpg" />
       </div>
     );
   }
